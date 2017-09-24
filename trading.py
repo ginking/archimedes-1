@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# NOTE TRADINGKING IS NOW ALLY PROGRESS AS NORMAL AS INCORPORATED CHANGES IN PLACE
 
 from __future__ import unicode_literals
 from datetime import datetime
