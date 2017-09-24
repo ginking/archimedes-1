@@ -1,3 +1,11 @@
+THIS WILL NEED TO BE EQUITY MANAGED, OTHERWISE SELL/BUY WILL GENERATE REDUCED/LOSS DRIVEN RETURNS AS IT'S BUILT TO SHORT THEN BUY AND SELL EOD WHICH IS NOT PEAK PERFORMANCE. 
+
+THIS FOR US WAS PROOF OF CONCEPT EDITS/ENHANCEMENTS (FOREX SIDE REMOVED) AND WAS MANAGED BY A PROFESSIONAL TRADER PULLING THE FUNDS OR CLOSING OUT AT LOSS/GAIN THROUGHOUT EXPERIMENTATION PROCESS. 
+
+PLEASE UNDERSTAND BY UTILISING THIS IN LIVE INVACIO, WILLIAM J D WEST OR OTHER DEVELOPERS MENTIONED THROUGHOUT THE LICENSE ARE NOT RESPONSIBLE FOR ANY LOSSES OBTAINED.
+
+USE AT YOUR OWN RISK, PREFERABLY HAVE A ENGINEER GO THROUGH, EXPLAINING EACH ELEMENT AND ENHANCING TO YOUR OWN USES, PLEASE THEN ONLY UTILISE IF YOU ARE A ACCREDITED INVESTOR OR TRADER.
+
 Archimedes 1 is a bot based sentient based trader, heavily influenced on forked existing bots, with a few enhancements here or there, this was completed to understand how the bots worked to roll the forward in our own manner to our own complete ai based trading system (Archimedes 2:0)
 
 This bot watches [followed accounts] tweets and waits for them to mention any publicly traded companies. When they do, sentiment analysis is used determine whether the opinions are positive or negative toward those companies. The bot then automatically executes trades on the relevant stocks according to the expected market reaction. 
