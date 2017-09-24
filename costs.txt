@@ -1,0 +1,3 @@
+Note, using Google Cloud services will heavily effect the bottom line, within a week of testing this the cloud fees for GL was over £400.00 with the amount of accounts we were following, this being without the auto scaling of the bot demands. 
+
+Advise that you look at and build from internally, rather than dumping in a load of accounts to follow and trading forward from, we left a few in there for this code dump, update/replace as requied, this is merely a proof of concept/use.
